@@ -1,0 +1,13 @@
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.deps.json
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.runtimeconfig.json
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.runtimeconfig.dev.json
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.dll
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.pdb
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.csproj.CoreCompileInputs.cache
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorAssemblyInfo.cache
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorAssemblyInfo.cs
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.AssemblyInfoInputs.cache
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.AssemblyInfo.cs
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorTargetAssemblyInfo.cache
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.dll
+D:\code\latest_bot_samples\BotBuilder-Samples\samples\csharp_dotnetcore\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.pdb
